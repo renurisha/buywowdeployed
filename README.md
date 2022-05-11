@@ -16,7 +16,7 @@ Product page:-
 
 
 Cart page:-
-<img src="https://github.com/renurisha/buywowclone/blob/main/buywowscreenshots/cartpage.png">
+<img src="https://github.com/renurisha/cloneBuywow/blob/main/buywowscreenshots/cartpage.png">
 
 
 Shipping Address Page:-
