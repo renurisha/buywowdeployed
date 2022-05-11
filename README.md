@@ -9,11 +9,10 @@ we are four members in this project group.we have executed our project in 6 days
 this website provides the product of different category and contains only natural products of health and hair care.
 
 HOME PAGE:-
-<img src="https://github.com/renurisha/buywowclone/blob/main/buywowscreenshots/homepage.png">
 
 Product page:-
 
-<img src="https://github.com/renurisha/buywowclone/blob/main/buywowscreenshots/productpage.png">
+
 
 
 Cart page:-
